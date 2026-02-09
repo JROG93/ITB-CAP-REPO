@@ -85,7 +85,7 @@
     }
   },
   "Description": null,
-  "DisplayName": "ITB-CA-E01 | Enforce MFA - Admin Roles",
+  "DisplayName": "ITB-CA-E01 | Enforce MFA - Admin Roles*",
   "GrantControls": {
     "AuthenticationStrength": {
       "AllowedCombinations": null,
