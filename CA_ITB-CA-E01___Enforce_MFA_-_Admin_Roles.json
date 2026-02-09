@@ -1,4 +1,10 @@
+
 {
+  "TemplateName": "",
+  "Category": "",
+  "Description": "",
+  "Policy": { 
+
   "Conditions": {
     "Applications": {
       "ApplicationFilter": {
@@ -129,3 +135,4 @@
   "State": "enabledForReportingButNotEnforced",
   "AdditionalProperties": {}
 }
+}  
