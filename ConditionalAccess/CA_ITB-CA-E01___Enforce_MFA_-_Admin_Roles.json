@@ -1,5 +1,5 @@
 {
-  "TemplateName": "ITB-CA-E01 | Enforce MFA - Admin Roles*",
+  "TemplateName": "ITB-CA-E01 | Enforce MFA - Admin Roles-JR",
   "Category": "ITB-CA-Essentials",
   "Description": "Require MFA for all privileged admin roles",
   "Policy": {
