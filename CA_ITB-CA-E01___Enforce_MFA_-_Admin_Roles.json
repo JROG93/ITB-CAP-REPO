@@ -1,8 +1,8 @@
 
 {
-  "TemplateName": "",
-  "Category": "",
-  "Description": "",
+  "TemplateName": "ITB-CA-E01 | Enforce MFA - Admin Roles*",
+  "Category": "ITB-CA-Essentials",
+  "Description": "Essential Caps",
   "Policy": { 
 
   "Conditions": {
